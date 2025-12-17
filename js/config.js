@@ -23,10 +23,13 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '茅台',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '33333',
         adult: true
     }
+    
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
